@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asiliout</string>
+    <string name="page_login_title">登录</string>
+    <string name="page_login_account">账号</string>
+    <string name="page_login_password">密码</string>
+    <string name="page_login_login">登录</string>
+    <string name="page_login_other">其他</string>
+    <string name="page_login_forgetPassword">忘记密码？</string>
+    <string name="page_login_remeberPassword">记住密码</string>
+    <string name="page_otherLogin_title">其他</string>
+</resources>

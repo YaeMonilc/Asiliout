@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asiliout</string>
+    <string name="page_login_title">LOGIN</string>
+    <string name="page_login_account">Account</string>
+    <string name="page_login_password">Password</string>
+    <string name="page_login_login">LOGIN</string>
+    <string name="page_login_other">OTHER</string>
+    <string name="page_login_forgetPassword">Forget password?</string>
+    <string name="page_login_remeberPassword">Remeber</string>
+    <string name="page_otherLogin_title">OTHER</string>
+</resources>
